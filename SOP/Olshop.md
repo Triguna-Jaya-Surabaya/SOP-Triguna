@@ -1,0 +1,31 @@
+Tujuan: Membuat customer rasa yakin bahwa kita penjual real dan **berkualitas**.
+- Jaskir
+	- Judul: copy dari TGR.
+		- **PENTING**: Tambah "**SBY**" di belakang. 
+		- Jika lebih dari 100 karakter, hapus "**dus**", hapus "**JSK**" atau "**JsKrm**"
+	- Deskripsi: copy dari TGR
+		- Ubah nomor telepon di bawah RESLER atau Murah Langsung jadi "NOL LAPAN SATU DUA SATU TIGA DELAPAN EMPAT DUA SEMBILAN ENAM"
+		- Ubah tulisan paling atas "Link ini dus bisa semua jasa kirim"
+	- Gambar: gambar utama Jaskir, Halal, Perbandingan Biru, Perbandingan biasa, Ukuran produk. Jika tidak muat representasi masing2 ukuran produk saja
+	- Video: copy dari TGR
+	- Harga: sesuai Harga Ol
+- Gojek
+	- Judul: copy dari TGR. 
+		- **PENTING**: Tambah "**SBY**" di belakang. 
+		- Ubah "JSK" menjadi "GJK"
+	- Deskripsi: Sama dengan Jaskir.  `Link ini dus khusus gjk grb`
+	- Gambar: Sama dengan Jaskir. gambar utama Gojek
+	- Video: Sama dengan Jaskir
+	- Harga: sesuai Harga Ol
+- Harga Khusus
+	- Judul: copy dari TGR. 
+		- **PENTING**: Tambah "**SBY**" di belakang. 
+	- Harga: sesuai **Harga Web**
+	- 
+	- Stock: selalu ready
+	- Minimum Pembelian: 10 - 20
+- Pack
+	- Judul: copy dari TGR. 
+		- **PENTING**: Tambah "**SBY**" di belakang. 
+	- Harga: sesuai Harga Pack Ol
+	- 
