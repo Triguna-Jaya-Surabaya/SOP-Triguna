@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>index</title>
+  <title>SOP</title>
   <style>
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -172,17 +172,66 @@
   </style>
 </head>
 <body>
-<h2 id="warehouse">Warehouse</h2>
+<h1 id="week-start-ops">Week Start Ops</h1>
+<h2 id="stock-balancing">Stock Balancing</h2>
+<p>Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1
+bulan (Limits: Not scalable after more than a single warehouse #Limits)
+### Init 1. <span class="citation"
+data-cites="Team_Surabaya">@Team_Surabaya</span> create balancing
+request 2. Buka halaman Pergerakan Stock 3. Change kali_max_gdg_global
+to a qty that makes sense (min 0.3 - max 0.5) - Jika kali_max_gdg_global
+&lt;= 0.3 masih muncul barang utk di order, mobil HARUS dijadwalkan utk
+kirim (stock di Smaller_Branch terlalu sedikit) - Jika
+kali_max_gdg_global &gt; 0.3 normal - Jika kali_max_gdg_global &gt; 0.5
+barang sudah cukup di cabang - Limit: Barang keluar di Smaller_Branch
+terlalu banyak sehingga kali_max_gdg_global 0.5 sudah tidak mencukupi,
+maka max 0.5 harus diubah #Limits - Fix: Show kubikasi (HPP as fallback)
+on Pergerakan Stock #Action #Develop 4. Buka Simpo 5. Masukkan Volume
+Mobil ke Pergerakan Stock 6. Masukkan List ID Produk ke Simpo - (Note:
+Untuk pemahaman, anjurkan anak baru untuk mencoba kali_max_gdg_global
+terlalu besar/kecil. Perhatikan rasio n qty SKU fast moving dan SKU slow
+moving) 7. Copy List ID Produk ### Execute 1. <span class="citation"
+data-cites="Main_Office">@Main_Office</span> melakukan stock masuk stock
+keluar 1. Stock keluar: 1. Create invoice with HPP price to akun cabang
+- Note: Akun cabang supaya masuk di kategori cabang bukan sebagai Loss)
+2. Stock masuk: 1. Login ke cabang ([[Deliberation#Cabang Setting]]) 2.
+Input di Spurcinv ([[Deliberation#Stock Masuk]]) 2. Siap Pengiriman -
+Same as [[#Half Loading Full Loading|Pengiriman]]</p>
+<h2 id="half-loading-full-loading">Half Loading Full Loading</h2>
+<ol type="1">
+<li>Half loading or Full loading workflow remains the same</li>
+<li>Kirim Nomor Invoice ke <span class="citation"
+data-cites="Team_Sidoarjo">@Team_Sidoarjo [[Deliberation#Shipping SJ
+Printing|Shipping SJ Printing]]</span></li>
+<li><span class="citation"
+data-cites="Team_Sidoarjo">@Team_Sidoarjo</span> siapkan barang ke
+pallet</li>
+<li>Mobil sampai dan muat pallet yang sudah disiapkan
+<ol type="1">
+<li>Jika Vol mobil ≥ 95%, Siapkan 1 SJ untuk dikorbankan
 <ul>
-<li><a href="Warehouse/SOP.html">SOP</a></li>
-<li><a href="Warehouse/TODO.html">TODO</a></li>
-<li><a href="Warehouse/Current.html">Current</a> ## Pengiriman</li>
-<li><a href="Pengiriman/Tidak%20Muat.html">Tidak Muat</a></li>
+<li>Lihat [[Tidak Muat]]</li>
+</ul></li>
+</ol></li>
+</ol>
+<h1 id="week-stable">Week Stable</h1>
+<h2 id="stock-balancing---stable">Stock Balancing - Stable</h2>
+<ul>
+<li>Lihat [[SOP#Stock Balancing|Stock Balancing]] ### Init</li>
 </ul>
-<h2 id="sop">SOP</h2>
+<ol type="1">
+<li>Create Balancing request after the first wave of printing
 <ul>
-<li><p><a href="SOP/Olshop.html">Olshop</a></p></li>
-<li><p><a href="Warehouse/Deliberation.html">Deliberation</a></p></li>
+<li>Note: Exact timing is condition-dependent and will be refined
+through trial and error #Investigate_Minor ### Execute</li>
+</ul></li>
+</ol>
+<ul>
+<li>Lihat [[SOP#Stock Balancing|Stock Balancing]]</li>
+</ul>
+<h2 id="pengiriman">Pengiriman</h2>
+<ul>
+<li>Lihat [[SOP#Half Loading Full Loading|Pengiriman]]</li>
 </ul>
 </body>
 </html>
