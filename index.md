@@ -1,12 +1,12 @@
 ## Warehouse
-- [SOP](Warehouse/SOP.md)
-- [TODO](Warehouse/TODO.md)
-- [Current](Warehouse/Current.md)
+- [SOP](Warehouse/SOP.html)
+- [TODO](Warehouse/TODO.html)
+- [Current](Warehouse/Current.html)
 ## Pengiriman
-- [Tidak Muat](Pengiriman/Tidak%20Muat.md)
+- [Tidak Muat](Pengiriman/Tidak%20Muat.html)
 
 ## SOP
-- [Olshop](SOP/Olshop.md)
+- [Olshop](SOP/Olshop.html)
 
 
-- [Deliberation](Warehouse/Deliberation.md)
+- [Deliberation](Warehouse/Deliberation.html)

@@ -175,28 +175,61 @@
 <h1 id="week-start-ops">Week Start Ops</h1>
 <h2 id="stock-balancing">Stock Balancing</h2>
 <p>Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1
-bulan (Limits: Not scalable after more than a single warehouse #Limits)
-### Init 1. <span class="citation"
+bulan (Limits: Not scalable after more than a single warehouse
+#Limits)</p>
+<h3 id="init">Init</h3>
+<ol type="1">
+<li><span class="citation"
 data-cites="Team_Surabaya">@Team_Surabaya</span> create balancing
-request 2. Buka halaman Pergerakan Stock 3. Change kali_max_gdg_global
-to a qty that makes sense (min 0.3 - max 0.5) - Jika kali_max_gdg_global
-&lt;= 0.3 masih muncul barang utk di order, mobil HARUS dijadwalkan utk
-kirim (stock di Smaller_Branch terlalu sedikit) - Jika
-kali_max_gdg_global &gt; 0.3 normal - Jika kali_max_gdg_global &gt; 0.5
-barang sudah cukup di cabang - Limit: Barang keluar di Smaller_Branch
-terlalu banyak sehingga kali_max_gdg_global 0.5 sudah tidak mencukupi,
-maka max 0.5 harus diubah #Limits - Fix: Show kubikasi (HPP as fallback)
-on Pergerakan Stock #Action #Develop 4. Buka Simpo 5. Masukkan Volume
-Mobil ke Pergerakan Stock 6. Masukkan List ID Produk ke Simpo - (Note:
-Untuk pemahaman, anjurkan anak baru untuk mencoba kali_max_gdg_global
-terlalu besar/kecil. Perhatikan rasio n qty SKU fast moving dan SKU slow
-moving) 7. Copy List ID Produk ### Execute 1. <span class="citation"
-data-cites="Main_Office">@Main_Office</span> melakukan stock masuk stock
-keluar 1. Stock keluar: 1. Create invoice with HPP price to akun cabang
-- Note: Akun cabang supaya masuk di kategori cabang bukan sebagai Loss)
-2. Stock masuk: 1. Login ke cabang ([[Deliberation#Cabang Setting]]) 2.
-Input di Spurcinv ([[Deliberation#Stock Masuk]]) 2. Siap Pengiriman -
-Same as [[#Half Loading Full Loading|Pengiriman]]</p>
+request</li>
+<li>Buka halaman Pergerakan Stock</li>
+<li>Change kali_max_gdg_global to a qty that makes sense (min 0.3 - max
+0.5)
+<ul>
+<li>Jika kali_max_gdg_global &lt;= 0.3 masih muncul barang utk di order,
+mobil HARUS dijadwalkan utk kirim (stock di Smaller_Branch terlalu
+sedikit)</li>
+<li>Jika kali_max_gdg_global &gt; 0.3 normal</li>
+<li>Jika kali_max_gdg_global &gt; 0.5 barang sudah cukup di cabang
+<ul>
+<li>Limit: Barang keluar di Smaller_Branch terlalu banyak sehingga
+kali_max_gdg_global 0.5 sudah tidak mencukupi, maka max 0.5 harus diubah
+#Limits</li>
+</ul></li>
+<li>Fix: Show kubikasi (HPP as fallback) on Pergerakan Stock #Action
+#Develop</li>
+</ul></li>
+<li>Buka Simpo</li>
+<li>Masukkan Volume Mobil ke Pergerakan Stock</li>
+<li>Masukkan List ID Produk ke Simpo
+<ul>
+<li>(Note: Untuk pemahaman, anjurkan anak baru untuk mencoba
+kali_max_gdg_global terlalu besar/kecil. Perhatikan rasio n qty SKU fast
+moving dan SKU slow moving)</li>
+</ul></li>
+<li>Copy List ID Produk ### Execute</li>
+<li><span class="citation" data-cites="Main_Office">@Main_Office</span>
+melakukan stock masuk stock keluar
+<ol type="1">
+<li>Stock keluar:
+<ol type="1">
+<li>Create invoice with HPP price to akun cabang
+<ul>
+<li>Note: Akun cabang supaya masuk di kategori cabang bukan sebagai
+Loss)</li>
+</ul></li>
+</ol></li>
+<li>Stock masuk:
+<ol type="1">
+<li>Login ke cabang ([[Deliberation#Cabang Setting]])</li>
+<li>Input di Spurcinv ([[Deliberation#Stock Masuk]])</li>
+</ol></li>
+</ol></li>
+<li>Siap Pengiriman
+<ul>
+<li>Same as [[#Half Loading Full Loading|Pengiriman]]</li>
+</ul></li>
+</ol>
 <h2 id="half-loading-full-loading">Half Loading Full Loading</h2>
 <ol type="1">
 <li>Half loading or Full loading workflow remains the same</li>

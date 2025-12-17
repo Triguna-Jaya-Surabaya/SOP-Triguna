@@ -1,7 +1,9 @@
 # Week Start Ops
+
 ## Stock Balancing
 Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan
 (Limits: Not scalable after more than a single warehouse #Limits)
+
 ### Init
 1. @Team_Surabaya create balancing request
 2. Buka halaman Pergerakan Stock
