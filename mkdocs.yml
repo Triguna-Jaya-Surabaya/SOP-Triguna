@@ -16,6 +16,9 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 
+repo_url: https://github.com/Triguna-Jaya-Surabaya/SOP-Triguna
+edit_uri: edit/main/docs/
+
 nav:
   - Home: index.md
   - Warehouse:
