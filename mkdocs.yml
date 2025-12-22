@@ -1,0 +1,30 @@
+site_name: SOP Triguna
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+
+plugins:
+  - search
+  - roamlinks
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Warehouse:
+    - SOP: Warehouse/SOP.md
+    - TODO: Warehouse/TODO.md
+    - Current: Warehouse/Current.md
+  - Pengiriman:
+    - Tidak Muat: Pengiriman/Tidak Muat.md
+  - SOP:
+    - Olshop: SOP/Olshop.md
+  - Deliberation: Warehouse/Deliberation.md
+  

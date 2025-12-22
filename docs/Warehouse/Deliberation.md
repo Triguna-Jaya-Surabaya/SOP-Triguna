@@ -2,38 +2,38 @@
   - Invoice keluar and simpo
   - Invoice keluar tambah stock via simpo
   - Pindah gudang
-  - 
+
 
 # Stock Masuk
 - Simpo
 - Spucinv
-  - Cons: Only kadm_sby can do it
-  - Pros: Explicit record of stock movement kept by the system
+	- Cons: Only kadm_sby can do it
+	- Pros: Explicit record of stock movement kept by the system
 
 
 # Teams
 - 4 people alternating every 3 days
-  - Cons: 1 team always avoiding mondays
+	- Cons: 1 team always avoiding mondays
 - 4 people alternating every 6 days 
-  - Cons: Less overall team cohesion
+	- Cons: Less overall team cohesion
 - 4 people alternating every 6 days with wednesday in between
-  - Cons: should lessen damang against team cohesion (Need to know how they spend their sundays/ask them) #Investigate
+	- Cons: should lessen damang against team cohesion (Need to know how they spend their sundays/ask them) #Investigate
 
 
 # Dorm
 - Dorm 6 people with 3 rooms + a folding bed for temporary stays
 - Dorm with 4 people, 2 rooms and holding house for 6 people with 2 half rooms. 
-  - Half rooms aren't needed because rent is probably cheap, and they'd quickly move because it's very no amenities
-  - Half rooms aren't needed cause I have 6 + 4 beds combined, it has to be enough
+	- Half rooms aren't needed because rent is probably cheap, and they'd quickly move because it's very no amenities
+	- Half rooms aren't needed cause I have 6 + 4 beds combined, it has to be enough
 
 # Cabang Setting
 - Sidoarjo n Surabaya 1 cabang
 - Sidoarjo n Surabaya beberapa cabang
-  - Pros: Customer checkout, alamat otomatis sesuai
-  - Pros: Customer checkout, stock otomatis sesuai
-  - Cons: Ribet admin isi stock in out. 
-    (Note: Utk Checkoutin customer seharusnya masih gampang)
-  1. Harus ganti tbljne saat pindah Main_Office #Action
+	- Pros: Customer checkout, alamat otomatis sesuai
+	- Pros: Customer checkout, stock otomatis sesuai
+	- Cons: Ribet admin isi stock in out.  
+	  (Note: Utk Checkoutin customer seharusnya masih gampang)
+	1. Harus ganti tbljne saat pindah Main_Office #Action
 
 # Stock Balancing - Shipping
 - Balancing from Smaller_Branch to Main_Branch is easy logistically, can be done on car return
@@ -43,16 +43,16 @@
 # Shipping SJ Printing
  - Send cart link
  - Send SJ/invoice immediately
-   - Pros: Works at scale / after role reversal [[Current#Week Stable|Week Stable]]
-   - Pros: immediate loading after pallet
-   - Cons: Harder to teach for Team Sidoarjo due to multiple workflows
+	 - Pros: Works at scale / after role reversal [[Current#Week Stable|Week Stable]]
+	 - Pros: immediate loading after pallet
+	 - Cons: Harder to teach for Team Sidoarjo due to multiple workflows
 
 
 # Weeks before starting ops
 - 2 Months
 - 2 Weeks
 	- Cons: Ga bisa test buat rame olshop secara strategis dan pelan2
-	- Cons: Harus ada admin olshop untuk maintain, coba ubah2 harga secara cepat supaya rame [[SOP#Admin]]
+	- Cons: Harus ada admin olshop untuk maintain, coba ubah2 harga secara cepat supaya rame [[TODO#Admin Olshop]]
 	- Cons: Ada kemungkinan sepi di bulan pertama
 	- Cons: Orang gudang harus bantu packing, Banyak pindah2 bagian gudang dan packing dan picker
 		- Fix: Week 4 di mana tambah orang dan bagi peran masing2 (Misal 2 gudang, 4 packing)
@@ -121,7 +121,7 @@
 
 # Main_Office Migration
 ## SBY 1 Chatting + 1 Printing
-- Main Office move to SDA  [[Deliberation#Main_Office 2 Chatting]] reside if 1 person is at each location? 
+- Main Office move to SDA  reside if 1 person is at each location? 
 - SDA
 - ~~SBY~~
 	- Pros: Nothing changes

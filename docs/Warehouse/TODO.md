@@ -1,15 +1,17 @@
 # Construction
-- Contact the construction person #Action
-- [[TODO#Pre-admin]]
+Contact the construction person #Action  
+[[TODO#Pre-admin]]  
+
 1. Main Door (if place is insecure)
-2. CCTV
-- Ready for [[Current#Week Warehouse (Week 2)]]
-1. Office (Printer, laptop, table, chair)
-- Ready for [[Current#Week Start Ops (Week 4)]]
-1. AC
-2. 1 Room (Kamar utama) (Bed)
-3. Packing tables
-4. Dorm 6 people 3 rooms. ([[Deliberation#Dorm]])
+2. CCTV  
+   Ready for [[Current#Week Warehouse (Week 2)]]
+3. Office (Printer, laptop, table, chair)  
+   Ready for [[Current#Week Start Ops (Week 4)]]
+4. AC
+5. 1 Room (Kamar utama) (Bed)
+6. Packing tables
+7. Mesin RO
+8. Dorm 6 people 3 rooms. [^1]  
    (Note: 2 rooms for 4 people in the shoebox)
 
 # Zoning
@@ -30,21 +32,21 @@
 	- Target: ~2 weeks
 	- End state: olshop is fully ready
 3. Ensure packing supplies are already sent
-4. Ensure Warehouse is print capable (Should already be done in [[#Week 2|Week 2]])
+4. Ensure Warehouse is print capable (Should already be done in [[Current#Week Warehouse (Week 2)]])
 5. Try and activate the olshop 2 hours
 	- Record the rate/amount of orders that comes in
 	- Get @Team_Sidoarjo to do the packing
 	- Success criteria: packing flow is sustainable without manual intervention
-6. Packing starts [[#Week 4|Week 4]]
+6. Packing starts [[Current#Week Start Ops (Week 4)]]
 
 # Main_Office
 ## 2 Chatting People
 - Pindah 1 org chatting ke SDA. 
 - 1 orang sisa, training 1 orang print
 - Head Crew is still in SBY
-- Main Office move to SDA  [[Deliberation#Main_Office 2 Chatting]]
+- Main Office move to SDA  [^2]
 	- Fallback: If SDA admin is not available. SBY temporarily resumes invoice processing for that day only.
-- Invoice Handover to SBY [[Deliberation#Main_Office Handover]]
+- Invoice Handover to SBY [^3]
 	1. SDA processes invoice, 
 	2. SDA send the Nomor Invoice to SBY
 	3. SBY prints (Even if it's 100 Ambil Sendiri Transactions)
@@ -56,3 +58,11 @@
 - Pindah 1 org chatting ke SDA, total 2
 - Head Crew is still in SBY
 
+??? note "Test Notes"
+	This is a test note
+
+[^1]: [[Deliberation#Dorm]]
+
+[^2]: [[Deliberation#Main_Office Migration]]
+
+[^3]: [[Deliberation#Main_Office Handover]]

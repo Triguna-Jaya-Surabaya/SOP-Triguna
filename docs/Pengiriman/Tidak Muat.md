@@ -1,9 +1,11 @@
-### Tidak Muat #Deliberate
-95% kemungkinan ada yang mulai tidak muat
+### Tidak Muat
+95% kemungkinan ada yang mulai tidak muat.  #Deliberate 
 Invoice yang dipilih tergantung kondisi
-- Bisa bedasarkan jarak dari gudang ke alamat pengiriman
-Sehingga Mobil bisa langsung kirim ulang saat sdh kembali
+
+- Bisa bedasarkan jarak dari gudang ke alamat pengiriman  
+  Sehingga Mobil bisa langsung kirim ulang saat sdh kembali
 - Bisa bedasarkan volume SJ yang bisa dikirim besok terkecil dan
+
 1. Mengatur/mengembalikan barang yang tidak muat
 	- Bongkar SJ yang tidak muat, taruh pallet, pisahkan
 	- Cara menandai bahwa SJ posisi di gudang? #Deliberate

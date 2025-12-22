@@ -9,7 +9,6 @@ Gudang is used as buffer space. Shoebox is still main storage
 
 
 
-
 # Week Warehouse (Week 2)
 Starting Operations
 
@@ -22,7 +21,7 @@ Starting Operations
 - **Olshop**: Start olshop, sales amount depends on the market
 
 ## People/Unload
-- 4 People: 1 Week with thursday as the beginning of the week ([[Deliberation#Teams]])
+- 4 People: 1 Week with thursday as the beginning of the week [^3]
 	- 1 team lead
 	- 3 staff
 
@@ -34,8 +33,6 @@ Starting Operations
 2. [[SOP#Stock Balancing]]
 
 
-
-
 # Week Start Ops (Week 4)
 - SDA is now Main_Warehouse, not buffer storage.
 - Tronton and Fuso unloads here now (Monday Tronton goes to SBY)
@@ -45,7 +42,7 @@ Starting Operations
 - Start packing operations
 - Start stock rotation discipline
 ## SKU
-- All SKU [[Deliberation#Week2n4]]
+- All SKU [^1]
 - **Offline**: Shipping is mainly from here [[SOP#Half Loading Full Loading]]
 - **Olshop**: Start olshop, sales amount depends on the market
 
@@ -53,7 +50,7 @@ Starting Operations
 - At least 6 people
 
 ## Stock Balancing
-- SBY still gets Tronton [[Deliberation#Week4n8]]
+- SBY still gets Tronton [^2]
 - Stock Balancing is checked daily after first Order Proses batch (~10am)
 - [[SOP#Stock Balancing]]
 - Stock is based on Pergerakan Stock
@@ -69,12 +66,6 @@ Starting Operations
 - [[TODO#Main_Office]]
 
 
-%% 
-# Week 8
-- SDA is now the Main warehouse, therefore
-- Sonne also unloads here, therefore
-- Tronton and Fuso only unloads here now (Monday Tronton goes to SDA)
- %%
 
 # Week Stable
 Main_Office is now moved to SDA
@@ -89,13 +80,30 @@ Main_Office is now moved to SDA
 ## Dev_team
 - Get a large table where dev can work
 - does not need to be divided with sales_team, let them overhear and interact
-  - Cons: reduce productivity 10%. Fix: allow headphones
-  - Pros: Increase inter department cohesion
+	- Cons: reduce productivity 10%. Fix: allow headphones
+	- Pros: Increase inter department cohesion
 ## Construction_team
 - 
 ## Truck
 - Kecil 1 di SBY, Sedang 1 di SDA (parking cost reduction)
 
+
 # Future
 ## Kitchen_team
 - find a chef (cari emak2)
+
+### Test1
+
+#### Test 2
+
+##### Test 3
+
+
+
+
+
+[^1]: [[Deliberation#Week2n4]]
+
+[^2]: [[Deliberation#Week4n8]]
+
+[^3]: [[Deliberation#Teams]]

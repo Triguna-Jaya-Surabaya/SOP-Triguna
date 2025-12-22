@@ -1,7 +1,7 @@
 # Week Start Ops
 
 ## Stock Balancing
-Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan
+Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan  
 (Limits: Not scalable after more than a single warehouse #Limits)
 
 ### Init
@@ -24,20 +24,22 @@ Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan
 		1. Create invoice with HPP price to akun cabang
 			- Note: Akun cabang supaya masuk di kategori cabang bukan sebagai Loss)
 	2. Stock masuk: 
-		1. Login ke cabang ([[Deliberation#Cabang Setting]])
-		2. Input di Spurcinv ([[Deliberation#Stock Masuk]])
+		1. Login ke cabang [^1] 
+		2. Input di Spurcinv [^2]
 2. Siap Pengiriman 
 	- Same as [[#Half Loading Full Loading|Pengiriman]]
 
 ## Half Loading Full Loading
 1. Half loading or Full loading workflow remains the same 
-2. Kirim Nomor Invoice ke @Team_Sidoarjo [[Deliberation#Shipping SJ Printing|Shipping SJ Printing]]
+2. Kirim Nomor Invoice ke @Team_Sidoarjo [^3]
 3. @Team_Sidoarjo siapkan barang ke pallet
 4. Mobil sampai dan muat pallet yang sudah disiapkan
-	1. Jika Vol mobil ≥ 95%, Siapkan 1 SJ untuk dikorbankan 
-		- Lihat [[Tidak Muat]]
-
-
+	1. Jika Vol mobil ≥ 95%, Siapkan 1 SJ untuk dikorbankan  
+	   
+		??? info "Tidak Muat" 
+			Lihat [[Tidak Muat#Tidak Muat]]
+  
+  
 # Week Stable
 ## Stock Balancing - Stable
 - Lihat [[SOP#Stock Balancing|Stock Balancing]]
@@ -49,4 +51,10 @@ Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan
 
 ## Pengiriman
 - Lihat [[SOP#Half Loading Full Loading|Pengiriman]]
+
+[^1]: [[Deliberation#Cabang Setting]]
+
+[^2]: [[Deliberation#Stock Masuk]]
+
+[^3]: [[Deliberation#Shipping SJ Printing]]
 
