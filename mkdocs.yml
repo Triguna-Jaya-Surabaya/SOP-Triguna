@@ -1,6 +1,8 @@
 site_name: SOP Triguna
 theme:
   name: material
+  features:
+    - content.action.edit
 
 markdown_extensions:
   - admonition
@@ -17,6 +19,7 @@ extra_css:
   - stylesheets/extra.css
 
 repo_url: https://github.com/Triguna-Jaya-Surabaya/SOP-Triguna
+repo_name: Triguna-Jaya-Surabaya/SOP-Triguna
 edit_uri: edit/main/docs/
 
 nav:
