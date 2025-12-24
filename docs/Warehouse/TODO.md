@@ -14,6 +14,40 @@ Contact the construction person #Action
 8. Dorm 6 people 3 rooms. [^1]  
    (Note: 2 rooms for 4 people in the shoebox)
 
+??? note "Draft TGR"
+
+	1. Rak didinding bawah ac
+	2.	Bolongin kaca
+	3.	Lampu packing
+	5.	Kabel2 di tes ama lampu L N tidak terbalik
+	7.	Tangga hitam tambahan palangan ama karet
+	8.	Rak besi untuk tangerang
+	9.	Bikin hexos kamar tambahan masuk keluar
+	10.	Bantal guling sprey ama cover bantal guling
+	11.	Banner samping di pasang hadap luar
+	12.	Gembok luar kasih penutup supaya gk karat
+	13.	Pintu gerbang jangan kasar
+	14.	Check bocor atap
+	15.	Tarik jalur ground ke terminal ke kantor
+	16.	Gantungan baju di wc
+	18.	Trolley ambil barang yg kecil di buat seperti tangerang
+	19.	Hand pallet di kasih papan supaya bisa di tulis
+	20.	Papan tulis masuk barang gudang
+	21.	Gantungan A B C D E F untuk bagi po
+	22.	Bel listrik
+	23.	Wastafel tempat cuci tangan
+	24.	Colokan kamar
+	25.	Gantungan p3k + gantungan kunci + Pemadam APAR
+	26.	Meja mess ama kursi + meja tamu + kursi tamu
+
+# Due Dilligence
+- [ ] bisa wingbox, mobil sedang, mobil bisa parkir di luar
+- [ ] xpedisi terjangkau oleh Gojek
+- [ ] Luas 500m^2
+- [ ] tidak bocor
+- [ ] dataran tinggi spy tidak bocor, banding antara jalan n pintu masuk
+- [ ] coran lantai? Kan bisa pakai palet?
+
 # Zoning
 - Packing Area
 - Picking Area
