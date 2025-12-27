@@ -40,14 +40,6 @@ Contact the construction person #Action
 	25.	Gantungan p3k + gantungan kunci + Pemadam APAR
 	26.	Meja mess ama kursi + meja tamu + kursi tamu
 
-# Due Dilligence
-- [ ] bisa wingbox, mobil sedang, mobil bisa parkir di luar
-- [ ] xpedisi terjangkau oleh Gojek
-- [ ] Luas 500m^2
-- [ ] tidak bocor
-- [ ] dataran tinggi spy tidak bocor, banding antara jalan n pintu masuk
-- [ ] coran lantai? Kan bisa pakai palet?
-
 # Zoning
 - Packing Area
 - Picking Area
