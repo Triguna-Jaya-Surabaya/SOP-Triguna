@@ -2,16 +2,15 @@
 Contact the construction person #Action  
 [[TODO#Pre-admin]]  
 
-1. Main Door (if place is insecure)
-2. CCTV  
+1. CCTV  
    Ready for [[Current#Week Warehouse (Week 2)]]
-3. Office (Printer, laptop, table, chair)  
+2. Office (Printer, laptop, table, chair)  
    Ready for [[Current#Week Start Ops (Week 4)]]
-4. AC
-5. 1 Room (Kamar utama) (Bed)
-6. Packing tables
-7. Mesin RO
-8. Dorm 6 people 3 rooms. [^1]  
+3. AC
+4. 1 Room (Kamar utama) (Bed)
+5. Packing tables
+6. Mesin RO
+7. Dorm 6 people 3 rooms. [^1]  
    (Note: 2 rooms for 4 people in the shoebox)
 
 ??? note "Draft TGR"
