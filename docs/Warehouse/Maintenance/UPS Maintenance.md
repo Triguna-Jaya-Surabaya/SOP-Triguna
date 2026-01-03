@@ -1,4 +1,4 @@
-# UPS Maintenance (MULTIMETER)
+UPS Maintenance (MULTIMETER)
 =================================================
 
 Jenis UPS      : Online UPS (contoh: Prolink PRO901-ES)

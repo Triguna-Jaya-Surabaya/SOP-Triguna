@@ -1,0 +1,6 @@
+- min stock 2
+- Sediment Filter: 10 micron, 5 micron, 1 micron, 
+- Filter Fe Mn klu perlu, 
+- Carbon Filter
+- Seal minimal 4
+- Isolasi pipa

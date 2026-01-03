@@ -63,7 +63,7 @@ Starting Operations
 
 ## Main Office
 - Move 1 person in chatting
-- [[TODO#Main_Office]]
+- [[docs/Warehouse/TODO#Main_Office]]
 
 
 
