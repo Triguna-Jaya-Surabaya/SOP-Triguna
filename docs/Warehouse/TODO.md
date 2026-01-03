@@ -15,6 +15,7 @@
 	- Success criteria: packing flow is sustainable without manual intervention
 6. Packing starts [[Current#Week Start Ops (Week 4)]]
 
+
 # Main_Office
 ## 2 Chatting People
 - Pindah 1 org chatting ke SDA. 
@@ -33,6 +34,7 @@
 - Train at least 1 backup for printing
 - Pindah 1 org chatting ke SDA, total 2
 - Head Crew is still in SBY
+
 
 ??? note "Test Notes"
 	This is a test note

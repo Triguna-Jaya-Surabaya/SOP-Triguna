@@ -24,7 +24,9 @@ Diagram
 ```
 
 R ≈ 7.8 A
+
 S ≈ 1.0 A
+
 T ≈ 7.8 A
 
 
@@ -33,51 +35,76 @@ Penjelasan
 ===========================================
 
 SISTEM:
+
 - 3 Phase: R – S – T – N
 - Semua body logam WAJIB ke ground (PE)
 
 ISI MCB PANEL PICKER–PACKER:
 
+
 0. Feeder 
 ---------------------
 MCB : 3P 20 A
+
 Phase : R - S - T
+
 Beban : 
+
  - Sumber arus untuk subpael
  - Gunakan bus bar 3 Phase
 
+
 1. LAMPU AREA KERJA
 ------------------
+
 MCB   : 1P 10 A
+
 Phase : R
+
 Beban :
+
 - Lampu area picker–packer
+
 
 2. STOP KONTAK RINGAN
 --------------------
 MCB   : 1P 16 A
+
 Phase : T
+
 Beban :
+
 - Charger HP
 - Laptop
 - Printer
 - Alat kecil
 
+
 3. AC PICKER–PACKER #1
 ----------------------
+
 MCB   : 1P 20 A (Curve C)
+
 Phase : R
+
 Beban :
+
 - AC 2 PK
+
 
 4. AC PICKER–PACKER #2
 ----------------------
 MCB   : 1P 20 A (Curve C)
+
 Phase : R
+
 Beban :
+
 - AC 2 PK
 
+
 ATURAN:
+
 - 1 AC = 1 MCB
 - AC TIDAK boleh digabung stop kontak
 - Phase TIDAK boleh diganti

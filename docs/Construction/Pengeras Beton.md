@@ -13,7 +13,7 @@ STEP 1 — Pembersihan Lantai
 **Tes cepat:**  
 Tetes air → kalau air menggenang → masih kotor / terkontaminasi → bersihkan ulang
 
----
+
 STEP 2 — Campur Produk
 ===========================================
 - Campur:
@@ -22,7 +22,6 @@ STEP 2 — Campur Produk
 - Jangan buat campuran terlalu banyak sekaligus
 
 
----
 STEP 4 — Aplikasi Coat Pertama
 ===========================================
 1. Aplikasikan dengan:
@@ -39,7 +38,7 @@ Tampilan lantai:
 - Basah merata
 - Tidak ada kolam cairan
 
----
+
 STEP 5 — Biarkan Menyerap (JANGAN DIAPA-APAIN)
 ===========================================
 - Diamkan hingga **maksimal 2 jam**
@@ -52,7 +51,7 @@ Yang normal terjadi:
 
 Semua itu **OK**.
 
----
+
 STEP 6 — BUANG SISA CAIRAN (INI PALING PENTING)
 ===========================================
 Setelah ±2 jam:
@@ -67,7 +66,7 @@ Jika dilewati, maka coating terlalu banyak, akibatnya:
 - Sulit diperbaiki
 **Jangan biarkan sisa cairan kering di permukaan.**
 
----
+
 STEP 7 — Pengeringan
 ===========================================
 - Biarkan kering **24 jam**
@@ -77,7 +76,6 @@ STEP 7 — Pengeringan
 
 Lantai **HARUS kering** sebelum coat berikutnya.
 
----
 
 STEP 8 — Tentukan Perlu Coat Tambahan atau Tidak
 ===========================================
@@ -90,7 +88,6 @@ Umumnya:
 - Beton power trowel / sangat padat → **1 coat**
 
 
----
 STEP 9 — Coat ke-2 / ke-3 (jika perlu)
 ===========================================
 

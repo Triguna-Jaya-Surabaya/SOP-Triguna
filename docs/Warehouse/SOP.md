@@ -1,5 +1,41 @@
 # Week Start Ops
 
+AKSES TRUK BESAR – GUDANG SIDOARJO (AWAL)
+---------------------
+
+
+KONDISI:
+
+- Canopy pintu utama berpotensi TERLALU RENDAH
+- Berlaku untuk TRUK FUSO & TRONTON
+
+
+PATOKAN TINGGI TRUK:
+
+- FUSO     : ± 3.8 – 4.0 m
+- TRONTON  : ± 4.1 – 4.3 m
+
+
+Bongkar via RUKO (KANAN – pintu kedua dari jalan)
+
+1. UKUR tinggi canopy (titik terendah)
+2. IDENTIFIKASI jenis truk
+3. JANGAN pakai perkiraan mata
+
+
+
+LARANGAN:
+
+- DILARANG nekat / coba-coba
+- RAGU = JANGAN MASUK
+
+
+CATATAN:
+
+- Akses ruko bersifat SEMENTARA
+- Akan diganti setelah canopy ditinggikan 4.5m
+
+
 ## Stock Balancing
 Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan  
 (Limits: Not scalable after more than a single warehouse #Limits)
@@ -38,8 +74,8 @@ Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan
 	   
 		??? info "Tidak Muat" 
 			Lihat [[Tidak Muat#Tidak Muat]]
-  
-  
+
+
 # Week Stable
 ## Stock Balancing - Stable
 - Lihat [[SOP#Stock Balancing|Stock Balancing]]

@@ -2,7 +2,6 @@
 
 ### Overview
 - [Current](Warehouse/Current.md)
-- [Survey](Warehouse/Survey.md)
 - [Deliberation](Warehouse/Deliberation.md)
 
 ### SOP
@@ -12,7 +11,7 @@
 - [Warehouse TODO](Warehouse/TODO.md)
 
 ### Air
-- [Sistem Air](Warehouse/Air/Air.md)
+- [Air Utama](Air%20Utama.md)
 
 ### Listrik
 - [Utama](Warehouse/Listrik/Utama.md)
