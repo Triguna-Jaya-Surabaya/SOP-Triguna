@@ -24,9 +24,9 @@ Diagram
 └─────────────────────────────────────────┘
 ```
 
-R ≈ 2.1 A   (exhaust share)
-S ≈ 20–24 A (tools + charger + exhaust)
-T ≈ 10.3 A (lampu UFO + exhaust)
+R ≈ 2.1 A   (exhaust share)  
+S ≈ 20–24 A (tools + charger + exhaust)  
+T ≈ 10.3 A (lampu UFO + exhaust)  
 
 
 

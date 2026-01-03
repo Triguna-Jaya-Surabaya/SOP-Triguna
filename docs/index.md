@@ -15,8 +15,7 @@
 - [Sistem Air](Warehouse/Air/Air.md)
 
 ### Listrik
-- [Listrik Utama](Warehouse/Listrik/Utama.md)
-- [UPS](Warehouse/Listrik/UPS.md)
+- [Utama](Warehouse/Listrik/Utama.md)
 
 #### MCB
 - [MCB Gudang](Warehouse/Listrik/MCB/MCB%20Gudang.md)
@@ -26,7 +25,6 @@
 ### Maintenance
 - [Air – Sparepart](Warehouse/Maintenance/Air%20Sparepart.md)
 - [UPS Maintenance](Warehouse/Maintenance/UPS%20Maintenance.md)
-- [Utama](Warehouse/Maintenance/Utama.md)
 
 ---
 

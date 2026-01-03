@@ -74,7 +74,7 @@ ATURAN PEMBAGIAN PHASE
 ------------------------
 - Beban besar harus dibagi merata antar phase
 - Gunakan pola:
-  R → S → T → ulangi
+	R → S → T → ulangi
 
 Jika suatu phase sering trip:
 - Berarti beban pada phase tersebut terlalu besar
@@ -83,11 +83,11 @@ Jika suatu phase sering trip:
 
 KONFIGURASI YANG DILARANG
 ---------------------------
-❌ Kabel 2.5 mm² pada MCB >16 A
-❌ Lebih dari 1 Air Conditioner dalam 1 MCB
-❌ Air Conditioner digabung dengan stop kontak
-❌ Ground tidak terhubung ke body peralatan
-❌ Phase tidak diberi label
-❌ MCB dipilih berdasarkan “kira-kira”
+❌ Kabel 2.5 mm² pada MCB >16 A  
+❌ Lebih dari 1 Air Conditioner dalam 1 MCB  
+❌ Air Conditioner digabung dengan stop kontak  
+❌ Ground tidak terhubung ke body peralatan  
+❌ Phase tidak diberi label  
+❌ MCB dipilih berdasarkan “kira-kira”  
 
 
