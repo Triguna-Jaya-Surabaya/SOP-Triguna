@@ -358,10 +358,32 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#akses-truk-besar-gudang-sidoarjo-awal" class="md-nav__link">
+  <a href="#main-office" class="md-nav__link">
     <span class="md-ellipsis">
       
-        AKSES TRUK BESAR – GUDANG SIDOARJO (AWAL)
+        Main Office
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bagi-rute" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bagi Rute
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#proses-invoice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proses Invoice
       
     </span>
   </a>
@@ -708,10 +730,32 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#akses-truk-besar-gudang-sidoarjo-awal" class="md-nav__link">
+  <a href="#main-office" class="md-nav__link">
     <span class="md-ellipsis">
       
-        AKSES TRUK BESAR – GUDANG SIDOARJO (AWAL)
+        Main Office
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bagi-rute" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bagi Rute
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#proses-invoice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proses Invoice
       
     </span>
   </a>
@@ -794,32 +838,61 @@
 
 
 <h1 id="week-start-ops">Week Start Ops</h1>
-<h2 id="akses-truk-besar-gudang-sidoarjo-awal">AKSES TRUK BESAR – GUDANG SIDOARJO (AWAL)</h2>
-<p>KONDISI:</p>
+<h2 id="main-office">Main Office</h2>
 <ul>
-<li>Canopy pintu utama berpotensi TERLALU RENDAH</li>
-<li>Berlaku untuk TRUK FUSO &amp; TRONTON</li>
+<li>Buatkan semua orderan ke SDA</li>
+<li>Tawarkan customer lebih kecil dari 5jt untuk pengmbilan di SBY<ul>
+<li>Jika pengambilan di bawah 5jt, tawarkan customer untuk pengambilan di SBY</li>
+<li>Jika pengambilan di atas 5jt, beri pemahaman bahwa di SBY stock terbatas</li>
+<li>Jika customer tetap ingin ambil dari SBY<ul>
+<li>Jika stock mencukupi, layani sesuai permintaan customer (Tetap harus memudahkan kebutuhan customer terlebih dahulu)</li>
+<li>Jika stock tidak mencukupi, beri pemahaman bahwa kita belum stock balancing, dan perkiraan barang ready di SBY bisa 2 sampai 3 hari </li>
 </ul>
-<p>PATOKAN TINGGI TRUK:</p>
+</li>
+</ul>
+</li>
+<li>Untuk pindah orderan, pakai sistem pindah orderan di halaman Reset Order</li>
+<li>Kalau pindah mau di picker ulang ga? #Deliberate</li>
+<li>Posisi sdh picker harus reset order terlebih dahulu baru pindah cabang #Develop 
+  (Kedepannya ubah jadi reset picker, jgn hrs reset order #Develop)</li>
+</ul>
+<h2 id="bagi-rute">Bagi Rute</h2>
 <ul>
-<li>FUSO     : ± 3.8 – 4.0 m</li>
-<li>TRONTON  : ± 4.1 – 4.3 m</li>
+<li>Login menggunakan akun bagi_rute<ul>
+<li>Kirim mobil</li>
+<li>Pindah invoice2 ke cabang seharusnya</li>
 </ul>
-<p>Bongkar via RUKO (KANAN – pintu kedua dari jalan)</p>
+</li>
+<li>jika pindah, pakai sistem pindah cabang di halaman Reset Order</li>
+</ul>
+<h2 id="proses-invoice">Proses Invoice</h2>
+<ul>
+<li>@Team_Surabaya hanya proses ambil sendiri (offline). Orderan lainnya (otp, dst) hanya boleh diproses @Main_Office</li>
+<li>Customer checkout sendiri lalu datang langsung dan menunjukkan bukti transfer dianggap offline</li>
+<li>
+<p>Customer datang langsung dan minta kirim kurir toko/gojek diarahkan ke @Main_Office</p>
+</li>
+<li>
+<p>@Main_Office melakukan stock masuk stock keluar </p>
 <ol>
-<li>UKUR tinggi canopy (titik terendah)</li>
-<li>IDENTIFIKASI jenis truk</li>
-<li>JANGAN pakai perkiraan mata</li>
-</ol>
-<p>LARANGAN:</p>
-<ul>
-<li>DILARANG nekat / coba-coba</li>
-<li>RAGU = JANGAN MASUK</li>
+<li>Stock keluar: <ol>
+<li>Create invoice with HPP price to akun cabang<ul>
+<li>Note: Akun cabang supaya masuk di kategori cabang bukan sebagai Loss)</li>
 </ul>
-<p>CATATAN:</p>
-<ul>
-<li>Akses ruko bersifat SEMENTARA</li>
-<li>Akan diganti setelah canopy ditinggikan 4.5m</li>
+</li>
+</ol>
+</li>
+<li>Stock masuk: <ol>
+<li>Login ke cabang <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> </li>
+<li>Input di Spurcinv <sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Siap Pengiriman <ul>
+<li>Same as <a href="#half-loading-full-loading">Pengiriman</a></li>
+</ul>
+</li>
 </ul>
 <h2 id="stock-balancing">Stock Balancing</h2>
 <p>Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan<br />
@@ -857,8 +930,8 @@
 </ol>
 </li>
 <li>Stock masuk: <ol>
-<li>Login ke cabang <sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> </li>
-<li>Input di Spurcinv <sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup></li>
+<li>Login ke cabang <sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup> </li>
+<li>Input di Spurcinv <sup id="fnref2:2"><a class="footnote-ref" href="#fn:2">2</a></sup></li>
 </ol>
 </li>
 </ol>
@@ -908,10 +981,10 @@
 <hr />
 <ol>
 <li id="fn:1">
-<p><a href="../Deliberation/#cabang-setting">Deliberation#Cabang Setting</a>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p><a href="../Deliberation/#cabang-setting">Deliberation#Cabang Setting</a>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 <li id="fn:2">
-<p><a href="../Deliberation/#stock-masuk">Deliberation#Stock Masuk</a>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+<p><a href="../Deliberation/#stock-masuk">Deliberation#Stock Masuk</a>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
 </li>
 <li id="fn:3">
 <p><a href="../Deliberation/#shipping-sj-printing">Deliberation#Shipping SJ Printing</a>&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
