@@ -1,3 +1,39 @@
+
+|        | Stat            | SBY                   | SDA                  | Tukang                      | Build | Admin  |
+| ------ | --------------- | --------------------- | -------------------- | --------------------------- | ----- | ------ |
+| Tgl 12 |                 | Bongkar TGR           |                      | Atap<br>Hardener            |       | Shopee |
+| Tgl 13 |                 | Bongkar TGR           |                      | Atap<br>Listrik<br>Hardener |       | Shopee |
+| Tgl 14 |                 | Bongkar VCT           |                      | Rak Packing                 | PLN   | Shopee |
+| Tgl 15 |                 |                       | Hand Pallet          | Rak Packing                 |       | Tiktok |
+| Tgl 16 | Libur           | Lembur<br>Bongkar TGR | Libur                | Rak Packing                 |       | Tiktok |
+| Tgl 17 |                 |                       | Bongkar TGR          | Meja Packing                |       | Tiktok |
+| Tgl 18 | Minggu          | Minggu                |                      | Meja Packing                |       |        |
+| Tgl 19 |                 | Bongkar VCT           |                      | Meja Packing                |       |        |
+| Tgl 20 | Start<br>SDA Ol | Bongkar TGR           | Bongkar<br>VCT + ORI | Listrik<br>Sekat Kantor     |       |        |
+| Tgl 21 |                 |                       |                      | Listrik<br>Sekat Kantor     | AC    |        |
+| Tgl 22 |                 |                       |                      | Listrik<br>Sekat Kamar      |       |        |
+| Tgl 23 |                 | Bongkar TGR           | Bongkar TGR          | Listrik<br>Sekat Kamar      |       |        |
+| Tgl 24 | Tukar Ol        | Bongkar VCT           | Bongkar VCT          | CCTV                        |       |        |
+| Tgl 25 | Minggu          |                       |                      |                             |       |        |
+
+### Packing req
+- Bahan (Dus bekas, Dus Jadi, Bubble) + alat packing (Rumah lakban, fragile, Cutter n isinya)
+- Rak Packing (Beli Siku)
+- Laptop
+- Printer (Kertas A4, Kertas Thermal, Staples, isi staples)
+- Keranjang
+- Barang ada n ready di olshop
+- Pindah olshop Req: Barang lengkap
+- **Nice to haves**: Meja Packing, Trolley kecil
+
+### Olshop
+- Main: Gratis Ongkir Xtra ✓, Promo Xtra ✓
+- Second: Gratis Ongkir Xtra ✓, Promo Xtra X. Lebih murah 4% (Biaya Promo Xtra)
+
+- Perlu libur ga?
+- Ganti alamat
+- Ganti nama n banner toko
+
 # Admin Olshop
 ## Pre-admin
 1. Test wireless CCTV #Action
@@ -10,6 +46,7 @@
 3. Ensure packing supplies are already sent
 4. Ensure Warehouse is print capable (Should already be done in [[Current#Week Warehouse (Week 2)]])
 5. Try and activate the olshop 2 hours
+	- Awal buka JnT Reguler, tetangga
 	- Record the rate/amount of orders that comes in
 	- Get @Team_Sidoarjo to do the packing
 	- Success criteria: packing flow is sustainable without manual intervention

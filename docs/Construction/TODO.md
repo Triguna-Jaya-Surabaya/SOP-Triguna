@@ -1,40 +1,13 @@
 # Construction
-- Ukur tinggi kanopi, Tronton 3.9m, 4m, Fuso 4.2m
-- Banner Triguna Jaya Sidoarjo
-- Atap bocor
-	- Scaffloding (Bawa)
-	- Tangga 2m (Bawa)
-	- Bor listrik (Bawa) 
-- Paving ruko
-- Naikin Canopy
+
 - Mess darurat 
-	- Wifi #Buy 
-	- Dispenser #Buy 
 	- P3K #Buy 
-	- Kotak es (Bawa)
-	- Rak tukang, Thinwall SQ 3000ml, Kotak bening besar utk alat tukang, gelas plastik (Bawa)
-	- Air galon, Aqua, kopi, teh. es batu #Buy 
-	- (AC, Kasur, Kasur tingkat, Meja) #Buy 
-	- Klu kaca mau di tempelin gypsum sementara gapapa
-- Exhaust fan #Buy 
-	- Bobok beton
-	- Pasang Kanopi
-	- 2 Exhaust fan bagian Utara [Exhaust Fan](https://shopee.co.id/Blower-Kipas-Exhaust-Fan-36-inch-untuk-Kandang-Ayam-close-house-Industri-Gudang-South-East-Market-i.1371387835.24737018452) (550 watt * 2 = 1.1 kW)
-	- 2 Jalusi besi Utara, 1 meter dari tanah
-- (Warehouse Jalan)
-- Floor hardener
-	- Sapu picker packer ke arah luar
-	- Vacuum (Bawa)
-	- Apply floor [[Pengeras Beton]]
+	- es batu #Buy 
+	- Kasur tingkat
 - Listrik stop kontak
+	- Subpanel
 	- Stop kontak #Buy 
 	- Office: (Printer, laptop, table, chair, kursi plastik)  #Buy 
-- Grounding
-- (Jalan: Warehouse, Kantor)
-- Lampu gudang UFO light #Buy
-- CCTV
-	- DVR, CCTV, Crimping kabel #Buy
-	- MCB per zona
 - Picker Packer
 	- Partisi
 	- AC picking packing #Buy 
@@ -42,18 +15,46 @@
 	- Packing tables
 	- Pintu
 - Mess
-	- Bohlam #Buy
 	- Loker #Buy 
 	- Gembok kunci, Gembok kombinasi #Buy 
-	- Saklar
 	- Meja
-	- Exhaust 8 inch
+	- Exhaust 4 inch
+- Grounding
+- Paving ruko
+
+- HVLS
+- Lampu gudang UFO light #Buy
+- CCTV
+	- DVR, CCTV, Crimping kabel #Buy
+	- MCB per zona
 - Water [[#Water]]
 	- Pressure tank #Buy 
 	- Filter housing #Buy 
 	- Mesin RO #Buy 
-- Maybe think about a customer accepting Indoor AC Area
+- customer accepting in Indoor AC Area
+- Floor Hardener
 
+### Construction Done
+- Atap bocor
+	- Scaffloding (Bawa)
+	- Tangga 2m (Bawa)
+	- Bor listrik (Bawa) 
+- Naikin Canopy
+- Floor hardener
+	- Sapu picker packer ke arah luar
+	- Vacuum (Bawa)
+	- Apply floor [[Pengeras Beton]]
+- Mess darurat 
+	- Wifi #Buy 
+	- Dispenser #Buy 
+	- Kotak es (Bawa)
+	- Rak tukang, Thinwall SQ 3000ml, Kotak bening besar utk alat tukang, gelas plastik (Bawa)
+	- Air galon, Aqua, kopi, teh #Buy 
+	- (AC, Kasur, Meja) #Buy 
+	- Klu kaca mau di tempelin gypsum sementara gapapa
+	- Banner Triguna Jaya Sidoarjo
+	- Bohlam #Buy 
+	- Saklar
 
 ## Posisi AC
 

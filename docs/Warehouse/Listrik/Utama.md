@@ -70,9 +70,9 @@ Feeder:
 - Picker : 25A ✔ (borderline tapi aman)
 
 Gudang
-R ≈ 2.1 A   (exhaust share)
-S ≈ 20–24 A (tools + charger + exhaust)
-T ≈ 10.3 A (lampu UFO + exhaust)
+R ≈ 4.5 A   (HVLS)
+S ≈ 18–22 A (tools + charger + exhaust)
+T ≈ 7.8 A (lampu UFO + exhaust)
 
 Kantor
 R ≈ 21.3 A (UPS + 2 AC 1 PK)
@@ -85,11 +85,12 @@ S ≈ 1.0 A
 T ≈ 7.8 A
 
 
-PHASE R ≈ 31 A (est berlebih di UPS)
-PHASE S ≈ 32 A (est berlebih di Charger Stacker)
-PHASE T ≈ 24 A
+PHASE R ≈ 33 A (est berlebih di UPS)
+PHASE S ≈ 30 A (est berlebih di Charger Stacker)
+PHASE T ≈ 22 A
 ```
 
+Kalau MCB turun, pindah AC kantor 1 PK ke T satu
 
 PANEL UTAMA (INCOMING PLN)
 ===========================================

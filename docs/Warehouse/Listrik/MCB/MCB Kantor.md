@@ -26,7 +26,7 @@ Diagram
 ```
 
 R ≈ 21.3 A (UPS + 2 AC)
-
+1
 S ≈ 9.0 A
 
 T ≈ 5.5 A

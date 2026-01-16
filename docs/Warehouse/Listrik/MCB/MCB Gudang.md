@@ -12,23 +12,23 @@ Diagram
 │ [2] S | FEEDER 3P 25A                   │
 │ [3] T | FEEDER 3P 25A                   │
 │-----------------------------------------│
-│ [4] R | --- cadangan ---      C6        │
+│ [4] R | HVLS                  C10       │
 │ [5] S | Stop Kontak / Tools   C20       │
 │ [6] T | Lampu UFO             C10       │
 │                                         │
 │ [7] R |                                 │
-│ [8] S | EXHAUST FAN 3 PHASE   C10       │
+│ [8] S |                                 │
 │ [9] T |                                 │
 │                                         │
 │ [10+] | --- sisa slot ---               │
 └─────────────────────────────────────────┘
 ```
 
-R ≈ 2.1 A   (exhaust share)
+R ≈ 4.5 A   (exhaust share)
 
-S ≈ 20–24 A (tools + charger + exhaust)
+S ≈ 18–22 A (tools + charger + exhaust)
 
-T ≈ 10.3 A (lampu UFO + exhaust)
+T ≈ 7.8 A (lampu UFO + exhaust)
 
 
 

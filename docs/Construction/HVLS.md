@@ -1,0 +1,4 @@
+ - 1 pcs pasang Tengah2 area utara timur, 
+ - 1 pcs Tengah2 area selatan barat, 
+ - (bekas las gabungan antar WF seharusnya di tengah)
+ - Tinggi 5.5m

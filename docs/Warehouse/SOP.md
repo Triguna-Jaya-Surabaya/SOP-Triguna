@@ -1,40 +1,38 @@
 # Week Start Ops
 
-AKSES TRUK BESAR – GUDANG SIDOARJO (AWAL)
----------------------
+## Main Office
+- Buatkan semua orderan ke SDA
+- Tawarkan customer lebih kecil dari 5jt untuk pengmbilan di SBY
+	- Jika pengambilan di bawah 5jt, tawarkan customer untuk pengambilan di SBY
+	- Jika pengambilan di atas 5jt, beri pemahaman bahwa di SBY stock terbatas
+	- Jika customer tetap ingin ambil dari SBY
+		- Jika stock mencukupi, layani sesuai permintaan customer (Tetap harus memudahkan kebutuhan customer terlebih dahulu)
+		- Jika stock tidak mencukupi, beri pemahaman bahwa kita belum stock balancing, dan perkiraan barang ready di SBY bisa 2 sampai 3 hari 
+- Untuk pindah orderan, pakai sistem pindah orderan di halaman Reset Order
+- Kalau pindah mau di picker ulang ga? #Deliberate
+- Posisi sdh picker harus reset order terlebih dahulu baru pindah cabang #Develop 
+  (Kedepannya ubah jadi reset picker, jgn hrs reset order #Develop)
 
+## Bagi Rute
+- Login menggunakan akun bagi_rute
+	- Kirim mobil
+	- Pindah invoice2 ke cabang seharusnya
+- jika pindah, pakai sistem pindah cabang di halaman Reset Order
 
-KONDISI:
+## Proses Invoice
+- @Team_Surabaya hanya proses ambil sendiri (offline). Orderan lainnya (otp, dst) hanya boleh diproses @Main_Office
+- Customer checkout sendiri lalu datang langsung dan menunjukkan bukti transfer dianggap offline
+- Customer datang langsung dan minta kirim kurir toko/gojek diarahkan ke @Main_Office
 
-- Canopy pintu utama berpotensi TERLALU RENDAH
-- Berlaku untuk TRUK FUSO & TRONTON
-
-
-PATOKAN TINGGI TRUK:
-
-- FUSO     : ± 3.8 – 4.0 m
-- TRONTON  : ± 4.1 – 4.3 m
-
-
-Bongkar via RUKO (KANAN – pintu kedua dari jalan)
-
-1. UKUR tinggi canopy (titik terendah)
-2. IDENTIFIKASI jenis truk
-3. JANGAN pakai perkiraan mata
-
-
-
-LARANGAN:
-
-- DILARANG nekat / coba-coba
-- RAGU = JANGAN MASUK
-
-
-CATATAN:
-
-- Akses ruko bersifat SEMENTARA
-- Akan diganti setelah canopy ditinggikan 4.5m
-
+1. @Main_Office melakukan stock masuk stock keluar 
+	1. Stock keluar: 
+		1. Create invoice with HPP price to akun cabang
+			- Note: Akun cabang supaya masuk di kategori cabang bukan sebagai Loss)
+	2. Stock masuk: 
+		1. Login ke cabang [^1] 
+		2. Input di Spurcinv [^2]
+2. Siap Pengiriman 
+	- Same as [[#Half Loading Full Loading|Pengiriman]]
 
 ## Stock Balancing
 Smaller_Branch ambil barang sesuai estimasi stock keluar selama 1 bulan  
