@@ -25,7 +25,7 @@ Diagram
 
 ```
 
-R ≈ 21.3 A (UPS + 2 AC)
+R ≈ 12.2 A (UPS + 2 AC)
 
 S ≈ 9.0 A
 
