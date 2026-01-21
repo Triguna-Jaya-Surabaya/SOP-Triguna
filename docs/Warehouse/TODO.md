@@ -33,6 +33,7 @@
 - Perlu libur ga?
 - Ganti alamat
 - Ganti nama n banner toko
+- Ganti warna di website
 
 # Admin Olshop
 ## Pre-admin

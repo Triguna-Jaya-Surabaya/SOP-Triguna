@@ -11,7 +11,7 @@ Diagram
 │ [2] S | FEEDER 3P 20A                   │
 │ [3] T | FEEDER 3P 20A                   │
 │-----------------------------------------│
-│ [4] R | UPS ONLY            C16         │
+│ [4] R | UPS ONLY            C6          │
 │ [5] S | AC Mess #1          C10         │
 │ [6] T | AC Mess #2          C10         │
 │                                         │
@@ -26,7 +26,7 @@ Diagram
 ```
 
 R ≈ 21.3 A (UPS + 2 AC)
-1
+
 S ≈ 9.0 A
 
 T ≈ 5.5 A
