@@ -33,6 +33,7 @@
 ---
 
 ## SOP
+- [Nametag](SOP/Nametag.md)
 - [Olshop](SOP/Olshop.md)
 
 ---
