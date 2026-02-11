@@ -12,15 +12,15 @@ Diagram
 │ [3] T | FEEDER 3P 20A                   │
 │-----------------------------------------│
 │ [4] R | UPS ONLY            C6          │
-│ [5] S | AC Mess #1          C10         │
-│ [6] T | AC Mess #2          C10         │
+│ [5] S | AC Mess #1          C16         │
+│ [6] T | --- cadangan ---    C6          │
 │                                         │
-│ [7] R | AC Kantor #1        C10         │
+│ [7] R | AC Kantor 2 PK      C16         │
 │ [8] S | Lampu               C10         │
 │ [9] T | Stop Kontak         C16         │
 │                                         │
-│ [10]R | AC Kantor #2        C10         │
-│ [11+] | --- sisa slot ---               │
+│ [10]R | --- sisa slot ---               │
+│ [11+] |                                 │
 └─────────────────────────────────────────┘
 
 ```

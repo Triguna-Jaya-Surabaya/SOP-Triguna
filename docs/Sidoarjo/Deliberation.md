@@ -52,7 +52,7 @@
 - 2 Months
 - 2 Weeks
 	- Cons: Ga bisa test buat rame olshop secara strategis dan pelan2
-	- Cons: Harus ada admin olshop untuk maintain, coba ubah2 harga secara cepat supaya rame [[docs/Warehouse/TODO#Admin Olshop]]
+	- Cons: Harus ada admin olshop untuk maintain, coba ubah2 harga secara cepat supaya rame [[docs/Sidoarjo/TODO#Admin Olshop]]
 	- Cons: Ada kemungkinan sepi di bulan pertama
 	- Cons: Orang gudang harus bantu packing, Banyak pindah2 bagian gudang dan packing dan picker
 		- Fix: Week 4 di mana tambah orang dan bagi peran masing2 (Misal 2 gudang, 4 packing)

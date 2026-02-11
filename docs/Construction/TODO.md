@@ -7,12 +7,12 @@
 - Listrik stop kontak
 	- Subpanel
 	- Stop kontak #Buy 
-	- Office: (Printer, laptop, table, chair, kursi plastik)  #Buy 
+	- Kantor: (meja, kursi, kursi plastik, Printer, printer thermal, laptop (usb hub, mouse, keyboard, fan), Pen, Gunting, Amplop, Map, Rak dokumen, Staples, isi Staples, timbangan dus, timbangan emas, batre AA, batre AAA, batre jam)  #Buy 
 - Picker Packer
 	- Partisi
 	- AC picking packing #Buy 
 	- Lihat [[#Posisi AC]]
-	- Packing tables
+	- Packing tables (Cutter, isi Cutter, Lakban, Rumah Lakban, Fragile, Bubble wrap, Kardus, Papan kertas, Holder HP, Magnet, Tali ulil (spiral), cutter mini)
 	- Pintu
 - Mess
 	- Loker #Buy 
@@ -35,6 +35,7 @@
 - Floor Hardener
 
 ### Construction Done
+- Banner kecil Triguna Jaya Sidoarjo, utk klaim business google maps
 - Atap bocor
 	- Scaffloding (Bawa)
 	- Tangga 2m (Bawa)

@@ -8,11 +8,11 @@
 
 
 ## Kas
-### Tukang: 2jt cash
+### Tukang: 1jt cash
 
 ### Kepala Admin: 1jt cash
 - Kasbon
 - Makan lembur
 - Jika tidak sempat di top up maka top up pakai harian
 
-### Shopee: 500rb shopeepay
+### Shopee: 1jt shopeepay

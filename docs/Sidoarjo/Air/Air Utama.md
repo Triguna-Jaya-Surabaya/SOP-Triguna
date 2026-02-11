@@ -4,16 +4,14 @@
 - Pipa 1 Inch
 - Pressure tank: 100 L ✅ [Pressure Tank](https://www.tokopedia.com/karyabarupompa/tabung-tekanan-drakos-tvt-100-pressure-tank-poma-kapasitas-100l)
 	- Pre-charge pakai pompa angin 
-- 1" Vlog sock 3/4" 
-- Filter: Housing drat 3/4"
+- Pipa 1inch
+- Filter: Housing drat 1"
 	- Sediment Filter: 10 micron 
 	- Sediment Filter: 5 micron
 	- Sediment Filter: 1 micron
 	- (Fe/Mn opsional) 
 	- Carbon Filter
 	- Sparepart di dekat rangkaian filter [[Air Sparepart]]
-- 3/4" Vlog sock 1"
 - manifold (kalau bisa), 
 - cabang pendek ke shower/WC ✅
-- (Tandon ga pake dulu)
 - RO: komunal (UV setelah RO kalau perlu) ✅

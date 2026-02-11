@@ -1,29 +1,29 @@
-## Warehouse
+## Sidoarjo
 
 ### Overview
-- [Current](Warehouse/Current.md)
-- [Deliberation](Warehouse/Deliberation.md)
+- [Current](Current.md)
+- [Deliberation](Deliberation.md)
 
 ### SOP
-- [Warehouse SOP](Warehouse/SOP.md)
+- [Sidoarjo SOP](SOP.md)
 
 ### TODO
-- [Warehouse TODO](Warehouse/TODO.md)
+- [Sidoarjo TODO](docs/Sidoarjo/TODO.md)
 
 ### Air
 - [Air Utama](Air%20Utama.md)
 
 ### Listrik
-- [Utama](Warehouse/Listrik/Utama.md)
+- [Utama](Utama.md)
 
 #### MCB
-- [MCB Gudang](Warehouse/Listrik/MCB/MCB%20Gudang.md)
-- [MCB Kantor](Warehouse/Listrik/MCB/MCB%20Kantor.md)
-- [MCB Picker Packer](Warehouse/Listrik/MCB/MCB%20Picker%20Packer.md)
+- [MCB Gudang](MCB%20Gudang.md)
+- [MCB Kantor](MCB%20Kantor.md)
+- [MCB Picker Packer](MCB%20Picker%20Packer.md)
 
 ### Maintenance
-- [Air – Sparepart](Warehouse/Maintenance/Air%20Sparepart.md)
-- [UPS Maintenance](Warehouse/Maintenance/UPS%20Maintenance.md)
+- [Air – Sparepart](Air%20Sparepart.md)
+- [UPS Maintenance](UPS%20Maintenance.md)
 
 ---
 

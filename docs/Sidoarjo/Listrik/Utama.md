@@ -22,22 +22,29 @@ Kabel setelah sub panel:
 WARNA KABEL 
 ===========================================
 - 3 PHASE:
-	- R (L1) : Biru
-	- S (L2) : Merah
-	- T (L3) : Kuning polos
-	- N      : Hitam
-	- PE     : Kuning–Hijau
+	- R (L1) : Eterna warna lainnya
+	- S (L2) : Eterna warna lainnya
+	- T (L3) : Eterna warna lainnya
+	- N       : Biru
+	- PE      : Kuning–Hijau
 - URUTAN PHASE:
 	- KIRI → KANAN : R – S – T
 
-
 - 1 PHASE:
-	- L      : Biru
-	- N      : Coklat
+	- L       : Coklat
+	- N      : Biru
 	- PE     : Kuning–Hijau
 - Patokan Internal (Biar sama aja):
 	- L  → Pin kanan
 	- N  → Pin kiri
+
+- 3 PHASE:
+	- R (L1) : Eterna warna lainnya
+	- S (L2) : Eterna warna lainnya
+	- T (L3) : Eterna warna lainnya
+	- PE      : Kuning–Hijau
+
+
 
 
 

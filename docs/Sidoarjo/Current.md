@@ -1,15 +1,15 @@
 # Week Buffer Storage
 Gudang is used as buffer space. Shoebox is still main storage
 ## SKU
-- Same as [[#Week Warehouse (Week 2)]]
+- Same as [[#Week Sidoarjo (Week 2)]]
 ## People/Unload
-- Same as [[#Week Warehouse (Week 2)]]
+- Same as [[#Week Sidoarjo (Week 2)]]
 ## Stock Balancing
-- Same as [[#Week Warehouse (Week 2)]]
+- Same as [[#Week Sidoarjo (Week 2)]]
 
 
 
-# Week Warehouse (Week 2)
+# Week Sidoarjo (Week 2)
 Starting Operations
 
 ## SKU
@@ -63,7 +63,7 @@ Starting Operations
 
 ## Main Office
 - Move 1 person in chatting
-- [[docs/Warehouse/TODO#Main_Office]]
+- [[docs/Sidoarjo/TODO#Main_Office]]
 
 
 
@@ -76,7 +76,7 @@ Main_Office is now moved to SDA
 - A full single shift for packing and warehouse
 - 2 shifts both for packing and warehouse
 ## Office
-- Warehouse is now the Main_Office
+- Sidoarjo is now the Main_Office
 ## Dev_team
 - Get a large table where dev can work
 - does not need to be divided with sales_team, let them overhear and interact

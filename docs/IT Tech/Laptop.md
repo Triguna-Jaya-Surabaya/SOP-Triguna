@@ -1,0 +1,9 @@
+- printer driver, printer thermal driver
+- change pin laptop,
+- google chrome, pin to taskbar, open specific set of pages
+- account triguna, account Utama (SDA), 
+- Battery performance, touchpad scroll, windows update
+- Malwarebytes, quick scan, uninstall malwarebytes
+- Uninstall McAffee, uninstall McAffee webadvisor
+- Disable Onedrive
+- Microsoft Account
