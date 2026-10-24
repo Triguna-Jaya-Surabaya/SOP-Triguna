@@ -10,7 +10,7 @@
 ## Kas
 ### Tukang: 1jt cash
 
-### Kepala Admin: 1jt cash
+### Kepala Admin: 1jt cash, 1jt flip, 1jt brankas
 - Kasbon
 - Makan lembur
 - Jika tidak sempat di top up maka top up pakai harian

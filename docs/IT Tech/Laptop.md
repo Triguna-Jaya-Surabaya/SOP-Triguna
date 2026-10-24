@@ -1,5 +1,6 @@
 - printer driver, printer thermal driver
 - change pin laptop,
+- google don't sync settings/passwords
 - google chrome, pin to taskbar, open specific set of pages
 - account triguna, account Utama (SDA), 
 - Battery performance, touchpad scroll, windows update
